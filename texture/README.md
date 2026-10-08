@@ -1,0 +1,6 @@
+Textures
+dead_tree_trunk
+dirt_diff
+dry_ground
+rock_09
+sparse_grass
